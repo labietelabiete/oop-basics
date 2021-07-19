@@ -1,17 +1,60 @@
 `#php` `#oop` `#master-in-software-engineering`
 
+
+# Questions 
+
+## 1. What is OPP?
+
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+
+## 2. What is an a class?
+
+Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.
+
+## 3. What is an object?
+
+Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity. When class is defined initially, the description is the only object that is defined.
+
+## 4. What is an instance?
+
+An instance is a concrete occurrence of any object, existing usually during the runtime of a computer program
+
+## 5. What is a property?
+
+Properties are defined in the class template and represent the state of an object. Objects will have data stored in the properties field. Class properties belong to the class itself.
+
+## 6 What is a method?
+
+Methods are functions that are defined inside a class that describe the behaviors of an object. Each method contained in class definitions starts with a reference to an instance object. Additionally, the subroutines contained in an object are called instance methods. Programmers use methods for reusability or keeping functionality encapsulated inside one object at a time.
+
+## 7. What is the difference between function and method?
+
+
+
+
+
+
+
 # Assembler School: OOP Basics with PHP <!-- omit in toc -->
 
 In this project you will learn the basics of OOP using mobile devices as a reference. In the _"Project files"_ section you will find a description of the content to be displayed in each file.
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Tools](#tools)
-- [OOP Introduction](#oop-introduction)
-- [Project files](#project-files)
+- [Questions](#questions)
+  - [1. What is OPP?](#1-what-is-opp)
+  - [2. What is an a class?](#2-what-is-an-a-class)
+  - [3. What is an object?](#3-what-is-an-object)
+  - [4. What is an instance?](#4-what-is-an-instance)
+  - [5. What is a property?](#5-what-is-a-property)
+  - [6 What is a method?](#6-what-is-a-method)
+  - [7. What is the difference between function and method?](#7-what-is-the-difference-between-function-and-method)
+  - [Table of contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [Dependencies](#dependencies)
+  - [Tools](#tools)
+  - [OOP Introduction](#oop-introduction)
+  - [Project files](#project-files)
 
 ## Getting Started
 
